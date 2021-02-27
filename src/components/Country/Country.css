@@ -1,0 +1,10 @@
+.country-info{
+    width:50%;
+    margin:auto;
+    border: 2px solid purple;
+    box-shadow: 5px 5px 10px purple;
+    padding:20px;
+}
+.country-info img{
+    width:100%;
+}
